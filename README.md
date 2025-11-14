@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
+<div align="center"><img src="https://github.com/davidazure1278-maker/davidazure1278-maker/blob/main/TZ2A9651%20copy.JPG" style="width: 75px; height: 100px;></div>
 <h3 align="center">Experienced Technical Trainer</h3>
+<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravi-aws9823&label=Profile%20views&color=0e75b6&style=flat" alt="ravi-aws9823" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=davidazure1278-maker&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 - 🔭 I’m currently working With **Teks Academy**
 
